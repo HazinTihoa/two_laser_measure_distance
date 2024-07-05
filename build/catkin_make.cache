@@ -1,0 +1,2 @@
+ros_app/src/ldlidar
+-DCATKIN_DEVEL_PREFIX=/home/fast/lmd_laser_measure_distance_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fast/lmd_laser_measure_distance_ws/install -G Unix Makefiles
